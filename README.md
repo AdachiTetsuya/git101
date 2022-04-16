@@ -8,3 +8,4 @@ banana
 momo
 ice
 fixしました
+おはよう
