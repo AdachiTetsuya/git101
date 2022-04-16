@@ -7,3 +7,4 @@ sorry
 banana
 momo
 ice
+fixしました
